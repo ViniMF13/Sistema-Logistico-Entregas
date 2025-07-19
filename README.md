@@ -78,15 +78,9 @@ O projeto aplica:
 ## 📘 Documentação
 
 A documentação técnica completa foi elaborada em LaTeX e inclui:
-- Diagrama de classes UML
 - Análise de complexidade de funções principais
 - Estratégias de robustez
 - Análise experimental com gráficos
-
-## 👨‍💻 Autor
-
-Vinicius Sv13  
-Contato: [Seu e-mail ou LinkedIn]
 
 ## 📝 Licença
 
